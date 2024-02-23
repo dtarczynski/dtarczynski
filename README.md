@@ -8,6 +8,9 @@ I'm the Software Engineer and I'm passionate about:
 
 Feel free to reach me at dtarczynski📫gmail.com
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dtarczynski)](https://git.io/streak-stats)
 
 <!--
