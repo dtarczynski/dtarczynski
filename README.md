@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Dariusz 👋
+
+I'm the Software Engineer and I'm passionate about:
+- 🔭 Microsoft .NET
+- 🔭 Amazon Web Services
+- 🔭 Cybersecurity
+
+Feel free to reach me at dtarczynski📫gmail.com
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dtarczynski)](https://git.io/streak-stats)
 
 <!--
 **dtarczynski/dtarczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
