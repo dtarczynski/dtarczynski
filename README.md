@@ -2,7 +2,8 @@
 
 I'm the Software Engineer and I'm passionate about:
 - 🔭 Microsoft .NET
-- 🔭 Amazon Web Services
+- 🔭 Cloud technology
+- 🔭 Software Architecture
 - 🔭 Cybersecurity
 
 Feel free to reach me at dtarczynski📫gmail.com
